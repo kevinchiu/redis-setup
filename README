@@ -1,0 +1,1 @@
+Quick setup on Ubuntu: wget kevinchiu.org/redis-setup.sh && sudo bash redis-setup.sh
